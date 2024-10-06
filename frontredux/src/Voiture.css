@@ -1,0 +1,14 @@
+.custom-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .card-row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .custom-card .card-body {
+    flex-grow: 1;
+  }
